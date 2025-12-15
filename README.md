@@ -18,15 +18,15 @@ The project emphasizes:
 
 # 🎯 Objectives
 
-Design a robust relational database schema for an e-commerce platform
+- Design a robust relational database schema for an e-commerce platform
 
-Understand how schema design impacts performance and scalability
+- Understand how schema design impacts performance and scalability
 
-Apply normalization techniques to reduce redundancy
+- Apply normalization techniques to reduce redundancy
 
-Build a clear and logical ER diagram
+- Build a clear and logical ER diagram
 
-Strengthen practical SQL and database design skills
+- Strengthen practical SQL and database design skills
 
 # 🧱 Database Schema Design
 
@@ -34,13 +34,13 @@ The schema was designed using best practices in relational modeling, ensuring cl
 
 Key Design Principles Used:
 
-Proper primary and foreign key relationships
+- Proper primary and foreign key relationships
 
-Logical entity separation
+- Logical entity separation
 
-Normalized tables to avoid data duplication
+- Normalized tables to avoid data duplication
 
-Support for real-world queries and analytics
+- Support for real-world queries and analytics
 
 # 📊 ER Diagram
 
@@ -48,13 +48,13 @@ An Entity Relationship (ER) Diagram was created to visually represent the databa
 
 The ER diagram highlights:
 
-Core entities involved in the Zepto platform
+- Core entities involved in the Zepto platform
 
-Attributes of each entity
+- Attributes of each entity
 
-Relationships (One-to-One, One-to-Many)
+- Relationships (One-to-One, One-to-Many)
 
-Data flow across the system
+- Data flow across the system
 
 # 🧪 SQL Concepts Applied
 
